@@ -13424,4 +13424,14 @@
         <Type>Script</Type>
         <Description>Poppy Playtime Chapter 1 Autosplitter and Load Remover. (By Poots N Doots)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+	<Games>
+		<Game>SAMURAI JACK: BATTLE THROUGH TIME (2020)</Game>
+	</Games>
+	<URLs>
+		<URL>https://raw.githubusercontent.com/Mysterion06/SJGame/master/SJGame.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description> Loadremover by Mysterion_06_</Description>
+	</AutoSplitter>
 </AutoSplitters>
